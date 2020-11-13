@@ -5,7 +5,7 @@ be any type, and they are indexed by integers. The important difference is that
 tuples are immutable. Tuples are also comparable and hashable so we can sort lists
 of them and use tuples as key values in Python dictionaries.
 
-exercise
+
 Exercise 1: Revise a previous program as follows: Read and parse the
 “From” lines and pull out the addresses from the line. Count the number of messages from each person using a dictionary.
 After all the data has been read, print the person with the most commits
